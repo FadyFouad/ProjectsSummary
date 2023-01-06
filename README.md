@@ -1,26 +1,3 @@
-Projects 
-
-
-
-# Graduation project 
- 
- 
-## 🔗 Links
-[![github](https://img.shields.io/badge/github-000?style=github&logo=github&logoColor=white)](https://github.com/ahmedfarag9/humaniod-robot-graduation-project)
- 
- 
-## Images
- 
-![App Screenshot](https://github.com/ahmedfarag9/humaniod-robot-graduation-project/raw/main/images/robot_photo.jpg)
- 
- 
- 
-## Main Features: 
- 
-- Robot Control and Teleoperation using Depth Camera and Image Processing libraries.
-- Robot Automation using ROS and Google Assistant.
-- Implementing Robot Environment Awareness using Face, Object and Text Recognition Open Source Libraries.
-- Automatic Environment Navigation using Senors and Actuators.
 
 -----------------
 
@@ -277,5 +254,27 @@ Projects
 ## Main Features: 
  
 
+-----------------
+
+
+# Graduation project 
+ 
+ 
+## 🔗 Links
+[![github](https://img.shields.io/badge/github-000?style=github&logo=github&logoColor=white)](https://github.com/ahmedfarag9/humaniod-robot-graduation-project)
+ 
+ 
+## Images
+ 
+![App Screenshot](https://github.com/ahmedfarag9/humaniod-robot-graduation-project/raw/main/images/robot_photo.jpg)
+ 
+ 
+ 
+## Main Features: 
+ 
+- Robot Control and Teleoperation using Depth Camera and Image Processing libraries.
+- Robot Automation using ROS and Google Assistant.
+- Implementing Robot Environment Awareness using Face, Object and Text Recognition Open Source Libraries.
+- Automatic Environment Navigation using Senors and Actuators.
 
 
