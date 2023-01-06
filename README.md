@@ -80,7 +80,6 @@ Projects
 ## 🔗 Links 
 [![Apple Store](https://img.shields.io/badge/TestFlight-000?style=github&logo=apple&logoColor=white)](https://testflight.apple.com/join/Q97cZPXd)
 
-[![github](https://img.shields.io/badge/github-000?style=github&logo=github&logoColor=white)](https://github.com/ahmedfarag9/humaniod-robot-graduation-project)
 
  
 ## Screenshots
