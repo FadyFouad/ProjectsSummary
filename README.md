@@ -9,7 +9,7 @@ Projects
 [![github](https://img.shields.io/badge/github-000?style=github&logo=github&logoColor=white)](https://github.com/ahmedfarag9/humaniod-robot-graduation-project)
  
  
-## Screenshots
+## Images
  
 ![App Screenshot](https://github.com/ahmedfarag9/humaniod-robot-graduation-project/raw/main/images/robot_photo.jpg)
  
@@ -21,6 +21,76 @@ Projects
 - Robot Automation using ROS and Google Assistant.
 - Implementing Robot Environment Awareness using Face, Object and Text Recognition Open Source Libraries.
 - Automatic Environment Navigation using Senors and Actuators.
+
+-----------------
+
+
+# Ta7t eltalab
+ 
+ 
+## 🔗 Links 
+ [![Google](https://img.shields.io/badge/PlayStore-000?style=github&logo=google&logoColor=white)](https://play.google.com/store/apps/details?id=com.etatech.ondemandcustomerapp)
+
+ 
+## Screenshots
+![App Screenshot](https://play-lh.googleusercontent.com/vfkus07qIG7SjqQM69DJKqIOmOlvIgj8ECnYIjBwNY0PjjFIoxUH62yhxw2SgsnGggg=w1052-h592-rw)
+![App Screenshot](https://play-lh.googleusercontent.com/W2Mzp1IRIaZESRr1Nw-ujRS4PDmxPzpEU1vecbdg2qXcJ7bcejFkY2uelH0vTj7ls8E=w1052-h592-rw)
+![App Screenshot](https://play-lh.googleusercontent.com/JUcR7afejTVJWSIo2fkTbLBxk4bbF06xHdeVCltAcW6jBQyOZPlBeTyg-P_X-I81kVg=w1052-h592-rw)
+
+ 
+ 
+## Main Features: 
+ - Customers browse and search the app for service.
+ - Integrated with payment gateways (Stripe) and methods (Cash).
+ - Track handyman professionals post-booking via the application.
+ - SMS Gateway (Twilio).
+ - Auto-Address From Geo Location
+
+
+-----------------
+
+
+# Ta7t eltalab provider
+ 
+ 
+## 🔗 Links 
+ [![Apple Store](https://img.shields.io/badge/PlayStore-000?style=github&logo=google&logoColor=white)](https://play.google.com/store/apps/details?id=com.etatech.ondemandcustomerapp)
+
+ 
+## Screenshots
+  
+![App Screenshot](https://play-lh.googleusercontent.com/BosjrYVSAsEv8EBlWYVjOHeQT5HsHdnVFtq_M04nInW92zMisJ_3GnE8tBQOzCe__nA=w1052-h592-rw)
+![App Screenshot](https://play-lh.googleusercontent.com/2H2jj0PMIIs8H4RVuNYn3_Y8CtWltdWGN6uPB7LIF_iNwelx2rwCo5Lqka-qQVWDtro=w1052-h592-rw)
+ 
+ 
+  
+## Main Features: 
+ - Integrated with payment gateways (Stripe) and methods (Cash).
+ - Track handyman professionals post-booking via the application.
+ - SMS Gateway (Twilio).
+ - realtime chat (Text Messages).
+ - Auto-Address From Geo Location.
+
+-----------------
+
+
+# Connect4Sports
+ 
+ 
+## 🔗 Links 
+[![Apple Store](https://img.shields.io/badge/TestFlight-000?style=github&logo=apple&logoColor=white)](https://testflight.apple.com/join/Q97cZPXd)
+
+[![github](https://img.shields.io/badge/github-000?style=github&logo=github&logoColor=white)](https://github.com/ahmedfarag9/humaniod-robot-graduation-project)
+
+ 
+## Screenshots
+  
+ 
+ 
+## Main Features: 
+ 
+
+
 
 -----------------
 
@@ -167,32 +237,10 @@ Projects
 -----------------
 
 
-# Connect4Sports
+# Ts Project manager
  
  
 ## 🔗 Links 
- [![Apple Store](https://img.shields.io/badge/TestFlight-000?style=github&logo=apple&logoColor=white)](https://testflight.apple.com/join/Q97cZPXd)
-[![github](https://img.shields.io/badge/github-000?style=github&logo=github&logoColor=white)](https://github.com/ahmedfarag9/humaniod-robot-graduation-project)
-
- 
-## Screenshots
-  
- 
- 
-## Main Features: 
- 
-
-Ts Project manager
-
------------------
-
-
-# Connect4Sports
- 
- 
-## 🔗 Links 
-[![Apple Store](https://img.shields.io/badge/TestFlight-000?style=github&logo=apple&logoColor=white)](https://testflight.apple.com/join/Q97cZPXd)
-
 [![github](https://img.shields.io/badge/github-000?style=github&logo=github&logoColor=white)](https://github.com/ahmedfarag9/humaniod-robot-graduation-project)
 
  
@@ -204,52 +252,4 @@ Ts Project manager
  
 
 
------------------
-
-
-# Ta7t eltalab
- 
- 
-## 🔗 Links 
- [![Google](https://img.shields.io/badge/PlayStore-000?style=github&logo=google&logoColor=white)](https://play.google.com/store/apps/details?id=com.etatech.ondemandcustomerapp)
-
- 
-## Screenshots
-![App Screenshot](https://play-lh.googleusercontent.com/vfkus07qIG7SjqQM69DJKqIOmOlvIgj8ECnYIjBwNY0PjjFIoxUH62yhxw2SgsnGggg=w1052-h592-rw)
-![App Screenshot](https://play-lh.googleusercontent.com/W2Mzp1IRIaZESRr1Nw-ujRS4PDmxPzpEU1vecbdg2qXcJ7bcejFkY2uelH0vTj7ls8E=w1052-h592-rw)
-![App Screenshot](https://play-lh.googleusercontent.com/JUcR7afejTVJWSIo2fkTbLBxk4bbF06xHdeVCltAcW6jBQyOZPlBeTyg-P_X-I81kVg=w1052-h592-rw)
-
- 
- 
-## Main Features: 
- - Customers browse and search the app for service.
- - Integrated with payment gateways (Stripe) and methods (Cash).
- - Track handyman professionals post-booking via the application.
- - SMS Gateway (Twilio).
- - Auto-Address From Geo Location
-
-
------------------
-
-
-# Ta7t eltalab provider
- 
- 
-## 🔗 Links 
- [![Apple Store](https://img.shields.io/badge/PlayStore-000?style=github&logo=google&logoColor=white)](https://play.google.com/store/apps/details?id=com.etatech.ondemandcustomerapp)
-
- 
-## Screenshots
-  
-![App Screenshot](https://play-lh.googleusercontent.com/BosjrYVSAsEv8EBlWYVjOHeQT5HsHdnVFtq_M04nInW92zMisJ_3GnE8tBQOzCe__nA=w1052-h592-rw)
-![App Screenshot](https://play-lh.googleusercontent.com/2H2jj0PMIIs8H4RVuNYn3_Y8CtWltdWGN6uPB7LIF_iNwelx2rwCo5Lqka-qQVWDtro=w1052-h592-rw)
- 
- 
-  
-## Main Features: 
- - Integrated with payment gateways (Stripe) and methods (Cash).
- - Track handyman professionals post-booking via the application.
- - SMS Gateway (Twilio).
- - realtime chat (Text Messages).
- - Auto-Address From Geo Location.
 
